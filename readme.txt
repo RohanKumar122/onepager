@@ -20,7 +20,7 @@ WPOnepager allow you to create beautiful landing page, sales page, webinar & eve
 
 At WPOnepager, user experience is our #1 priority. Our pre-built page templates and blocks make WPOnepager the most beginner friendly landing page builder plugin in the market.
 
-WPOnepager is a 100% mobile responsive, so all your landing pages will always look great on all devices (mobile, tablet, laptop, and desktop).
+WPOnepager is a 100% mobile responsive, so all your landing pages will always looks great on all devices (mobile, tablet, laptop, and desktop).
 
 WPOnepager' landing pages are also highly optimized for web and built using the web standards because we understand the importance of speed when it comes to SEO and conversion. We can honestly say that landing page you are going to make will be faster than your competitor.
 
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=gJKIwp21dXs
 * Works with any WordPress Theme
 * Responsive
 * Customize the Look and Feel
-* Uses HTML5 &amp; CSS3
+* Uses HTML5 & amp; CSS3
 * Translation Ready, i18n Support
 * Everything in front-end
 * Google Analytics Support
@@ -115,7 +115,7 @@ If you like this plugin, then consider checking out our other projects:
 4. Developer friendly codebase
 
 
-== Frequently Asked Questions ==
+== Frequently Asked Questions (FAQs)==
 
 = Who should use WPOnepager? =
 
